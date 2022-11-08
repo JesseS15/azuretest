@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-sho&_3)wqxs-uq8jyvbprsuf0sqeitjkp%ypx7wh=r#we(esu8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [statecapstone.azurewebsites.net]
 
 
 # Application definition
